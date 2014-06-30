@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CAB60EA9-51A5-498D-9E42-689DA41BCE7D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Study_GPUImage_multifilter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4EF43F4F-7920-44E0-B2D1-7921D85E4203</key>
+		<string>ssh://github.com/StudyClass4iOS/StudyReport.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Study_GPUImage/Study_GPUImage_multifilter/Study_GPUImage_multifilter.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4EF43F4F-7920-44E0-B2D1-7921D85E4203</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/StudyClass4iOS/StudyReport.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4EF43F4F-7920-44E0-B2D1-7921D85E4203</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4EF43F4F-7920-44E0-B2D1-7921D85E4203</string>
+			<key>IDESourceControlWCCName</key>
+			<string>StudyReport</string>
+		</dict>
+	</array>
+</dict>
+</plist>
